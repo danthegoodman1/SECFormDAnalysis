@@ -1,0 +1,24 @@
+{
+    "cells": [
+        {
+            "language": "typescript",
+            "source": [
+                "import * as cheerio from 'cheerio'\nimport fetch from 'isomorphic-fetch'\nimport path from 'path'\n\nconst secBaseUrl = 'https://www.sec.gov'\n\nconst res = await fetch('https://www.sec.gov/dera/data/form-d')\nconst rawHTML = await res.text()\n\nconst $ = cheerio.load(rawHTML)\n\nconst table = $('table').first()\nconst rows = table.find('tr')\n\nfor (const row of rows) {\n  const url = secBaseUrl + $(row).find('a').first().attr('href')\n  console.log(`Checking ${url}`)\n}\n"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Checking https://www.sec.govundefined",
+                                "Checking https://www.sec.gov/files/structureddata/data/form-d-data-sets/2008q1_d.zip",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,692 @@
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0201</schemaVersion>
+
+    <submissionType>D</submissionType>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <primaryIssuer>
+        <cik>0000001800</cik>
+        <entityName>ABBOTT LABORATORIES</entityName>
+        <issuerAddress>
+            <street1>100 Abbott Park Road</street1>
+            <street2></street2>
+            <city>Abbott Park</city>
+            <stateOrCountry>IL</stateOrCountry>
+            <zipCode>60064-3500</zipCode>
+        </issuerAddress>
+        <issuerPhoneNumber></issuerPhoneNumber>
+        <issuerPreviousNameList>
+            <value>None</value>
+        </issuerPreviousNameList>
+        <jurisdictionOfInc>IL</jurisdictionOfInc>
+        <entityType>Corporation</entityType>
+        <yearOfInc>
+            <overFiveYears>true</overFiveYears>
+        </yearOfInc>
+    </primaryIssuer>
+
+    <relatedPersonsList>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Miles</firstName>
+                <middleName>D.</middleName>
+                <lastName>White</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Richard</firstName>
+                <middleName>W.</middleName>
+                <lastName>Ashley</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>John</firstName>
+                <middleName>M.</middleName>
+                <lastName>Capek</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Thomas</firstName>
+                <middleName>C.</middleName>
+                <lastName>Freyman</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Holger</firstName>
+                <middleName>A.</middleName>
+                <lastName>Liepmann</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Edward</firstName>
+                <middleName>L.</middleName>
+                <lastName>Michael</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Laura</firstName>
+                <middleName>J.</middleName>
+                <lastName>Schumacher</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>James</firstName>
+                <middleName>L.</middleName>
+                <lastName>Tyree</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Olivier</firstName>
+                <middleName></middleName>
+                <lastName>Bohuon</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Thomas</firstName>
+                <middleName>F.</middleName>
+                <lastName>Chen</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Stephen</firstName>
+                <middleName>R.</middleName>
+                <lastName>Fussell</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Robert</firstName>
+                <middleName>B.</middleName>
+                <lastName>Hance</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>John</firstName>
+                <middleName>C.</middleName>
+                <lastName>Landgraf</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Greg</firstName>
+                <middleName>W.</middleName>
+                <lastName>Linder</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Heather</firstName>
+                <middleName>L.</middleName>
+                <lastName>Mason</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>James</firstName>
+                <middleName>V.</middleName>
+                <lastName>Mazzo</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Donald</firstName>
+                <middleName>V.</middleName>
+                <lastName>Patton Jr.</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Mary</firstName>
+                <middleName>T.</middleName>
+                <lastName>Szela</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Michael</firstName>
+                <middleName>J.</middleName>
+                <lastName>Warmuth</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Executive Officer</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Robert</firstName>
+                <middleName>J.</middleName>
+                <lastName>Alpern</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>333 Cedar Street</street1>
+                <street2>C203 SHM</street2>
+                <city>New Haven</city>
+                <stateOrCountry>CT</stateOrCountry>
+                <zipCode>06520</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Roxanne</firstName>
+                <middleName>S.</middleName>
+                <lastName>Austin</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>30 Pelican Crest Drive</street1>
+                <street2></street2>
+                <city>Newport Coast</city>
+                <stateOrCountry>CA</stateOrCountry>
+                <zipCode>92657</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>William</firstName>
+                <middleName>M.</middleName>
+                <lastName>Daley</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>JPMorgan Chase &amp; Co.</street1>
+                <street2>1 Chase Tower, 10 S. Dearborn, Ste. 0883</street2>
+                <city>Chicago</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60603</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>W.</firstName>
+                <middleName>James</middleName>
+                <lastName>Farrell</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>H.</firstName>
+                <middleName>Laurance</middleName>
+                <lastName>Fuller</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Primacy Business Center</street1>
+                <street2>1111 E. Warrenville Rd. Ste. 257</street2>
+                <city>Naperville</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60563</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>William</firstName>
+                <middleName>A.</middleName>
+                <lastName>Osborn</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>100 Abbott Park Road</street1>
+                <street2></street2>
+                <city>Abbott Park</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60064</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>David</firstName>
+                <middleName>A. L.</middleName>
+                <lastName>Owen</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>78 Narrow Street</street1>
+                <street2>Limehouse</street2>
+                <city>London</city>
+                <stateOrCountry>X0</stateOrCountry>
+                <zipCode>E148BP</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Boone</firstName>
+                <middleName></middleName>
+                <lastName>Powell Jr.</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>9209 Westview Circle</street1>
+                <street2></street2>
+                <city>Dallas</city>
+                <stateOrCountry>TX</stateOrCountry>
+                <zipCode>75231</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>W.</firstName>
+                <middleName>Ann</middleName>
+                <lastName>Reynolds</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>130 West 67th Street</street1>
+                <street2>Apt. 21A</street2>
+                <city>New York</city>
+                <stateOrCountry>NY</stateOrCountry>
+                <zipCode>10023</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Roy</firstName>
+                <middleName>S.</middleName>
+                <lastName>Roberts</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>317 Pine Ridge Road</street1>
+                <street2></street2>
+                <city>Bloomfield Hills</city>
+                <stateOrCountry>MI</stateOrCountry>
+                <zipCode>48304</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Samuel</firstName>
+                <middleName>C.</middleName>
+                <lastName>Scott III</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>Corn Products Intl. Inc.</street1>
+                <street2>5 Westbrook Corporate Center</street2>
+                <city>Westchester</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60154</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>William</firstName>
+                <middleName>D.</middleName>
+                <lastName>Smithburg</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1>676 North Michigan</street1>
+                <street2>Suite 3860</street2>
+                <city>Chicago</city>
+                <stateOrCountry>IL</stateOrCountry>
+                <zipCode>60611</zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+        <relatedPersonInfo>
+            <relatedPersonName>
+                <firstName>Glenn</firstName>
+                <middleName>F.</middleName>
+                <lastName>Tilton</lastName>
+            </relatedPersonName>
+            <relatedPersonAddress>
+                <street1></street1>
+                <street2></street2>
+                <city></city>
+                <stateOrCountry></stateOrCountry>
+                <zipCode></zipCode>
+            </relatedPersonAddress>
+            <relatedPersonRelationshipList>
+                <relationship>Director</relationship>
+            </relatedPersonRelationshipList>
+            <relationshipClarification></relationshipClarification>
+        </relatedPersonInfo>
+    </relatedPersonsList>
+
+    <offeringData>
+        <industryGroup>
+            <industryGroupType>Pharmaceuticals</industryGroupType>
+        </industryGroup>
+        <issuerSize>
+            <revenueRange>Over $100,000,000</revenueRange>
+        </issuerSize>
+        <federalExemptionsExclusions>
+            <item>06</item>
+        </federalExemptionsExclusions>
+        <typeOfFiling>
+            <newOrAmendment>
+                <isAmendment>false</isAmendment>
+            </newOrAmendment>
+            <dateOfFirstSale>
+                <value>2009-03-02</value>
+            </dateOfFirstSale>
+        </typeOfFiling>
+        <durationOfOffering>
+            <moreThanOneYear>false</moreThanOneYear>
+        </durationOfOffering>
+        <typesOfSecuritiesOffered>
+            <isDebtType>true</isDebtType>
+        </typesOfSecuritiesOffered>
+        <businessCombinationTransaction>
+            <isBusinessCombinationTransaction>false</isBusinessCombinationTransaction>
+        </businessCombinationTransaction>
+        <minimumInvestmentAccepted>100000</minimumInvestmentAccepted>
+        <salesCompensationList>
+            <recipient>
+                <recipientName>Goldman, Sachs &amp; Co.</recipientName>
+                <recipientCRDNumber>361</recipientCRDNumber>
+                <associatedBDName>None</associatedBDName>
+                <associatedBDCRDNumber>None</associatedBDCRDNumber>
+                <recipientAddress>
+                    <street1>85 Broad Street</street1>
+                    <street2></street2>
+                    <city>New York</city>
+                    <stateOrCountry>NY</stateOrCountry>
+                    <zipCode>10004</zipCode>
+                </recipientAddress>
+                <statesOfSolicitationList>
+                    <value>All States</value>
+                </statesOfSolicitationList>
+            </recipient>
+        </salesCompensationList>
+        <offeringSalesAmounts>
+            <totalOfferingAmount>6690000</totalOfferingAmount>
+            <totalAmountSold>6690000</totalAmountSold>
+            <totalRemaining>0</totalRemaining>
+            <clarificationOfResponse></clarificationOfResponse>
+        </offeringSalesAmounts>
+        <investors>
+            <hasNonAccreditedInvestors>false</hasNonAccreditedInvestors>
+            <totalNumberAlreadyInvested>6</totalNumberAlreadyInvested>
+        </investors>
+        <salesCommissionsFindersFees>
+            <salesCommissions>
+                <dollarAmount>13380</dollarAmount>
+            </salesCommissions>
+            <findersFees>
+                <dollarAmount>0</dollarAmount>
+            </findersFees>
+            <clarificationOfResponse></clarificationOfResponse>
+        </salesCommissionsFindersFees>
+        <useOfProceeds>
+            <grossProceedsUsed>
+                <dollarAmount>0</dollarAmount>
+            </grossProceedsUsed>
+            <clarificationOfResponse></clarificationOfResponse>
+        </useOfProceeds>
+        <signatureBlock>
+            <authorizedRepresentative>false</authorizedRepresentative>
+            <signature>
+                <issuerName>Abbott Laboratories</issuerName>
+                <signatureName>/s/ William J. Chase</signatureName>
+                <nameOfSigner>William J. Chase</nameOfSigner>
+                <signatureTitle>Vice President and Treasurer</signatureTitle>
+                <signatureDate>2009-03-13</signatureDate>
+            </signature>
+        </signatureBlock>
+    </offeringData>
+</edgarSubmission>
